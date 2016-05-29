@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{090106A9-2CA7-31AD-6AAA-8E4539D3AA6E}") = "Sock Maker", "Assembly-CSharp.csproj", "{09367064-A396-F398-3A73-EFBA58CCA56E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09367064-A396-F398-3A73-EFBA58CCA56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09367064-A396-F398-3A73-EFBA58CCA56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09367064-A396-F398-3A73-EFBA58CCA56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09367064-A396-F398-3A73-EFBA58CCA56E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
